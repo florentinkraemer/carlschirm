@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+// Set your brand colors
+$green: #637263;
+$pink: #FA7C91;
+$brown: #757763;
+$beige-light: #D0D1CD;
+$beige-lighter: #EFF0EB;
+$grey-dark: #292929;
+$grey-lighter: hsl(0, 0%, 86%);
+
+// Update Bulma's global variables
+$family-sans-serif: "Fira Sans", sans-serif;
+$primary: $pink;
+$link: $green;
+$dark: $green;
+$body-color: $grey-dark;
+$title-color: $green;
+$subtitle-color: $green;
+//$background: $grey-dark;
+
+// Update some of Bulma's component variables
+$body-background-color: $grey-dark;
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+
+// add hero background image capacity
+.hero-cs {
+  @extend .hero;
+  	background-image: url('/images/home/cs_impressionen_11.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;}
+
+// Import only what you need from Bulma
+@import "../../bulma/bulma.sass";
+
+// change title colors
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  color: #637263;
+  font-weight: 600;
+  line-height: 1.125;
+}

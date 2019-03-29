@@ -1,0 +1,28 @@
+{{ partial "header.html" .}}
+
+<div class="section">
+  <div class="columns">
+    <div class="column is-two-thirds">
+      <div class= "content has-text-light">
+        {{ .Content }}
+      </div>
+    </div>
+    <div class="column">
+      <div class="box">
+        <div class="content">
+          <h3>Aktuelle Angebote</h3>
+          <ul>
+            <!-- Ranges through content/posts/*.md -->
+            {{ range .Pages }}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Date.Format "01.01.2006" }} | {{ .Title }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>  
+    </div>
+  </div>
+</div>
+
+{{ partial "footer.html" .}}

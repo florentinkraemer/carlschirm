@@ -1,0 +1,38 @@
+      <footer class="footer">
+        <div class = "columns">
+          <div class="column is-half">
+            <figure>
+              <img src="{{ print "images/" .Site.Params.logoFooter | relURL }}">
+            </figure>
+          </div>
+          <div class="column is-one-quarter">
+            <div class="content">
+              Carl Schirm GmbH & Co. Krüger KG
+              <br>
+              Bahnhofstraße 26
+              <br>
+              72138 Kirchentellinsfurt
+              <br>
+              <!-- replace by icons -->
+              Telefon: +49 (0)7121 60241
+              <br>
+              Telefax: +49 (0)7121 60244
+              <br>
+              Email: <a href="mailto:info@gewerberaum-carl-schirm.de">info@gewerberaum-carl-schirm.de</a>
+            </div>
+          </div>
+          <div class="column is-one-quarter">
+            <div class="content">
+              <a href="/impressum/">Impressum</a>
+              <br>
+              <a href="/datenschutz/">Datenschutz</a>
+              <br>
+              <a href="/sitemap/">Sitemap</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    {{ template "_internal/google_analytics.html" . }}
+  </body>
+</html>

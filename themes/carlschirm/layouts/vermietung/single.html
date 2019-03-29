@@ -1,0 +1,27 @@
+{{ partial "header.html" .}}
+
+
+<div class="section">
+<article class="message is-dark">
+  <div class="message-header">
+    <p>{{ .Title }}</p>
+  </div>
+  <div class="message-body">
+  	<div class="columns">
+  		<div class="column is-half">
+		<div class="content">
+	  		{{ .Content}}  		
+  		</div>
+  		</div>
+  		<div class="column">
+  			<h4>Grundriss</h4>
+  			<figure class="image is-128x128">
+  				<a href="{{ .Params.floorplanDownload }}"><img src="{{ .Params.floorplan }}"></a>
+  			</figure>
+  		</div>
+  	</div>
+  </div>
+</article>
+</div>
+
+{{ partial "footer.html" .}}

@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+
+<div class="section">
+  <div class="container">
+    <div class="columns is-multiline">
+      {{ range .Pages }}
+        <div class="column is-one-quarter">
+          <div class="card">
+            <div class="card-header">
+              <div class="card-header-title">{{ .Title }}</div>
+            </div>    
+            <div class="card-image">
+              <figure class="image">
+                <img src="{{ .Params.imagepath | relURL }}">
+              </figure>
+            </div>
+            <div class="card-content">
+              {{ .Content }}
+            </div>
+            <div class="card-footer">
+              <div class="card-content">
+              <div class="tags">
+                {{ range .Params.tags }}
+                <span class="tag is-rounded">{{ . }}</span>
+                {{ end }}
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>  
+  </div>  
+</div>
+
+{{ partial "footer.html" . }}
