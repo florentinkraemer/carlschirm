@@ -14,7 +14,7 @@ Unsere Räume tragen den Charme vergangener Tage -- dennoch erwartet Sie bei uns
 - Optimierter Wärmeschutz durch Ertüchtigung der Konstruktion
 - im Areal liegende KFZ-Parkplätze und ein überdachter Fahrradschuppen mit Lademöglichkeit für Akkus
 - Stromtankstelle für E-Autos
-- Optimale Verkehrsanbindung nach Reutlingen nach Tübingen, Stuttgart und Flughafen Stuttgart über die B 27
+- Optimale Verkehrsanbindung nach Reutlingen, Tübingen und Stuttgart über die B 27
 - nächste Bahnstation und Busanbindung in ca. 200 m Entfernung
 - Anbindung an den Neckartal-Radweg
 
