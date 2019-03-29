@@ -1,0 +1,33 @@
+baseURL = "http://carlschirm.de/"
+languageCode = "de-DE"
+title = "Carl Schirm"
+theme = "carlschirm"
+
+# copyright
+
+[params]
+    iconset = "https://use.fontawesome.com/releases/v5.3.1/js/all.js"
+    
+    description = "A website built through Hugo and blogdown."
+
+    # path to CSS file
+    customCSS = ["/css/carlschirm/css/cs.css"
+    			 # , "/css/bulma_extensions/bulma-carousel.min.css"
+    			 , "/css/flickity/flickity.min.css"]
+    # , "/css/bulma_extensions/bulma-carousel.min.css"
+    customJS = ["/js/mobileNavbar.js" 
+    			# ,"/js/bulma-carousel.min.js" 
+    			# , "/js/bulma-carousel-initialize.js"
+    			, "js/flickity.pkgd.min.js"]
+    # , "/js/bulma-carousel.min.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+    
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    logoFooter = "cs_fabrik.png"
+
+    [params.logo]
+    url = "cs_fabrik.png"
+    width = 120
+    height = 120
+    alt = "Carl Schirm"
