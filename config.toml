@@ -12,15 +12,11 @@ theme = "carlschirm"
 
     # path to CSS file
     customCSS = ["/css/carlschirm/css/cs.css"
-    			 # , "/css/bulma_extensions/bulma-carousel.min.css"
-    			 , "/css/flickity/flickity.min.css"]
+    			 , "/slick/slick.css"
+                 , "/slick/slick-theme.css"]
     # , "/css/bulma_extensions/bulma-carousel.min.css"
-    customJS = ["/js/mobileNavbar.js" 
-    			# ,"/js/bulma-carousel.min.js" 
-    			# , "/js/bulma-carousel-initialize.js"
-    			, "js/flickity.pkgd.min.js"]
-    # , "/js/bulma-carousel.min.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
-    
+    customJS = []
+
     # path to the favicon, under "static"
     favicon = "favicon.ico"
 
