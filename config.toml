@@ -15,7 +15,7 @@ theme = "carlschirm"
     			 , "/slick/slick.css"
                  , "/slick/slick-theme.css"]
     # , "/css/bulma_extensions/bulma-carousel.min.css"
-    customJS = []
+    customJS = ["js/mobileNavbar.js"]
 
     # path to the favicon, under "static"
     favicon = "favicon.ico"
