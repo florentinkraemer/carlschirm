@@ -10,7 +10,7 @@ $brown: #757763;
 $beige-light: #D0D1CD;
 $beige-lighter: #EFF0EB;
 $grey-dark: #292929;
-$grey-lighter: hsl(0, 0%, 86%);
+$grey-lighter: #DBDBDB;
 
 // Update Bulma's global variables
 $family-sans-serif: "Fira Sans", sans-serif;
@@ -27,6 +27,7 @@ $body-background-color: $grey-dark;
 $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
+$label-color: $white-ter;
 
 // add hero background image capacity
 .hero-cs {

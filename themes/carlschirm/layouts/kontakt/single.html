@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+
+<div class="section">
+  <div class="columns is-centered">
+    <div class="column is-half">
+      <form name="contact" method="POST" data-netlify="true">
+        <div class="field">
+          <label class="label">Ihr Name:</label>
+          <div class="control">
+            <input class="input" type="text" placeholder="Vorname Nachname">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">Ihre Email-Adresse:</label>
+          <div class="control">
+            <input class="input" type="text" placeholder="vorname.nachname@email.de">
+          </div>
+        </div>  
+        <div class="field">
+          <label class="label">Ihre Nachricht:</label>
+          <div class="control">
+            <textarea class="textarea" placeholder="Nachricht"></textarea>
+          </div>
+        </div>
+        <div class="field">
+          <div class="control">
+            <button class="button is-link">Abschicken</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}
