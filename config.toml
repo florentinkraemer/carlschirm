@@ -11,9 +11,7 @@ theme = "carlschirm"
     description = "Im Gewerbepark Carl Schirm zwischen Tübingen und Reutlingen finden Sie auf historischem Areal Lager-, Service- und Produktionsflächen sowie Büroräume, die äußerst flexibel gestaltet werden können. Unter den bereits angesiedelten Firmen aus unterschiedlichen Branchen befinden sich Produktionsbetriebe, Handel, Internetshops, Dienstleistungen, Ingenieurbüros, junge Gründerfirmen, Labore, Lager sowie Handwerksbetriebe."
 
     # path to CSS file
-    customCSS = ["/css/carlschirm/css/cs.css"
-    			 , "/slick/slick.css"
-                 , "/slick/slick-theme.css"]
+    customCSS = ["/css/carlschirm/css/cs.css"]
     # , "/css/bulma_extensions/bulma-carousel.min.css"
     customJS = ["js/mobileNavbar.js"]
 

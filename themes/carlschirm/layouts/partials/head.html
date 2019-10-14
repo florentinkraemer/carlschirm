@@ -34,6 +34,7 @@
 {{ end }}
 {{ range .Site.Params.customJS }}
 <script src="{{ . | relURL }}"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script> -->
 {{ end }}
 {{ with .Site.Params.iconset }}
 <script defer src="{{ . | absURL }}"></script>
