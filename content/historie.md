@@ -2,6 +2,8 @@
 type = "static"
 +++
 
+{{< load-photoswipe >}}
+
 ## Historie
 
 Die Firma wurde im Jahr 1900 durch Herrn Carl Schirm gegründet und unter dem Namen *Carl Schirm & Co.* im Handelsregister Tübingen als Unternehmen mit Nr. 2 eingetragen. Gegründet als Textilbetrieb (Weberei, Rauherei und Spinnerei) erlebten die Gebäude nach der Aufgabe der Produktion im Jahr 1987 eine Wiederbelebung als Gewerbepark *Carl Schirm*. Begonnen wurde 1900 mit der Herstellung von Betttüchern auf mechanischen Webstühlen, die zum Teil in der anschließenden Rauherei weiterbearbeitet und in der Näherei konfektioniert wurden.

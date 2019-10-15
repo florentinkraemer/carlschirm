@@ -10,7 +10,7 @@ Grid Layout Styles
 .gallery {
     overflow: hidden;
     margin: 10px;
-    max-width: 768px;
+    max-width: 1280px; /* originally: 768px */
 }
 .gallery .box {
     float: left;
@@ -33,7 +33,7 @@ Grid Layout Styles
         padding-bottom: 33.3%; /*  */
     }
 }
-@media only screen and (min-width : 9999px) {
+@media only screen and (min-width : 1280px) {
    /* Medium desktop: 4 tiles */
    .box {
       width: 25%;
@@ -62,10 +62,10 @@ figure {
 }
 .gallery figure {
     position: absolute;
-    left: 5px;
-    right: 5px;
-    top: 5px;
-    bottom: 5px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
 }
 .gallery.hover-effect-grow figure:hover {
     transform: scale(1.05);

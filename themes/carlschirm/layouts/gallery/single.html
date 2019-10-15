@@ -1,37 +1,7 @@
 {{ partial "header.html" . }}
 
-<!-- <div class="section">
-  <div class="carousel" data-flickity='{ "wrapAround": true }'>
-    <div class="carousel-cell"><img class="carousel-cell-image" src="/images/impressionen/cs_impressionen_01.jpg"></div>
-      <div class="carousel-cell"><img class="carousel-cell-image" src="/images/impressionen/cs_impressionen_02.jpg"><div>
-      <div class="carousel-cell"><img class="carousel-cell-image" src="/images/impressionen/cs_impressionen_03.jpg"><div>
-    </div>
-</div> -->
-
-
-
 <div class="section">
-  <div class="fullwidth">
-
-<!--   <div><img src="/images/impressionen/cs_impressionen_01.jpg"></div>
-  <div><img src="/images/impressionen/cs_impressionen_02.jpg"></div>
-  <div><img src="/images/impressionen/cs_impressionen_03.jpg"></div> -->
-  {{ .Content }}
-
-  </div>
+    {{ .Content }}
 </div>
-
-<!-- <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-
-<script type="text/javascript">
-  $(document).ready(function(){
-    $('.fullwidth').slick({
-      infinite: true,
-      dots: true
-    });
-  });
-</script> -->
 
 {{ partial "footer.html" . }}

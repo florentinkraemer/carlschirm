@@ -2,4 +2,4 @@
 type = "gallery"
 +++
 
-{{< gallery dir="/images/impressionen/" />}} {{< load-photoswipe >}}
+{{< gallery dir="/images/impressionen/" caption-position="none" />}} {{< load-photoswipe >}}
