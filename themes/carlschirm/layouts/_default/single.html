@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div class="section">
+	<div class="columns">
+		<div class="column is-half is-offset-one-quarter">
+			<div class="content has-text-light ">
+				<h1>{{ .Title }}</h1>
+				<h6>{{.Date.Format "02. January 2006"}}</h4>
+				{{ .Content }}
+			</div>	
+		</div>
+	</div>
+</div>
+
+<!--  -->
+
+{{ partial "footer.html" . }}
