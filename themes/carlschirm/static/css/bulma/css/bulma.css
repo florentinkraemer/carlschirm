@@ -317,6 +317,14 @@ iframe {
   border: 0;
 }
 
+iframe .googlemaps {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  max-width: 100%;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0;

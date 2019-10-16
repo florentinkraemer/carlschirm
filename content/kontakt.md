@@ -1,3 +1,4 @@
 +++
 type = "kontakt"
+title = "Kontakt"
 +++

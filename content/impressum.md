@@ -1,5 +1,6 @@
 +++
 type = "static"
+title = "Impressum"
 +++
 
 ## Impressum

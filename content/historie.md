@@ -1,5 +1,6 @@
 +++
 type = "static"
+title = "Historie"
 +++
 
 {{< load-photoswipe >}}

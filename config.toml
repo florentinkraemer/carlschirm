@@ -12,7 +12,7 @@ theme = "carlschirm"
 
     # path to CSS file
     customCSS = ["/css/carlschirm/css/cs.css"]
-    # , "/css/bulma_extensions/bulma-carousel.min.css"
+    # , "/css/bulma_extensions/bulma-carousel.min.css" , "/css/iframes_responsive.css"
     customJS = ["js/mobileNavbar.js"]
 
     # path to the favicon, under "static"

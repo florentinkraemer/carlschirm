@@ -7,7 +7,7 @@
 <meta property="og:title" content="{{ .Site.Title }}">
 <meta property="og:type" content="website">
 {{ else }}
-<title>{{ .Title }}{{ with .Params.subtitle }} - {{ . }} {{ end }} - {{ .Site.Title }}</title>
+<title>{{ .Title }}{{ with .Params.subtitle }} - {{ . }} {{ end }} | {{ .Site.Title }}</title>
 <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
 {{ end }}
 {{ with .Site.Params.favicon }}

@@ -1,5 +1,6 @@
 +++
 type = "static"
+title = "Über uns"
 +++
 
 <div class="columns">
