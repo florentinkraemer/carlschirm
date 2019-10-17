@@ -25,3 +25,8 @@ theme = "carlschirm"
     width = 120
     height = 120
     alt = "Carl Schirm"
+
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
