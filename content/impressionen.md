@@ -1,5 +1,5 @@
 +++
-type = "gallery"
+type = "impressionen"
 title = "Impressionen"
 +++
 
