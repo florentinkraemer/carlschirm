@@ -35,3 +35,10 @@ Geschäftsführer: Steffen Krämer
 ### Haftungshinweis 
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
+### Bildnachweis
+
+Die Bilder, die auf dieser Seite Verwendung finden, stammen aus folgenden Quellen:
+
+- [Andreas Keller](http://www.keller-fotografie.de) (Bild auf [Titelseite](https://www.gewerberaum-carl-schirm.de/) sowie sämtliche Bilder auf der Seite [Impressionen](https://www.gewerberaum-carl-schirm.de/impressionen))
+- Eigene Bearbeitungen von Archivmaterial
