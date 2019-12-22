@@ -4,7 +4,15 @@
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans');
 
 // Set your brand colors
-$green: #637263;
+$green-900: #8da78c;
+$green-800: #98b098;
+$green-700: #a4b9a3;
+$green-600: #afc1af;
+$green-500: #bbcaba;
+$green-400: #c6d3c6;
+$green-300: #d1dcd1;
+$green-200: #dde5dd;
+$green-100: #e8ede8;
 $pink: #FA7C91;
 $brown: #757763;
 $beige-light: #D0D1CD;
@@ -15,11 +23,12 @@ $grey-lighter: #DBDBDB;
 // Update Bulma's global variables
 $family-sans-serif: "Fira Sans", sans-serif;
 $primary: $pink;
-$link: $green;
-$dark: $green;
+$link: $green-600;
+$link-hover: $green-900;
+$dark: $green-900;
 $body-color: $grey-dark;
-$title-color: $green;
-$subtitle-color: $green;
+$title-color: $green-900;
+$subtitle-color: $green-600;
 //$background: $grey-dark;
 
 // Update some of Bulma's component variables
@@ -28,6 +37,18 @@ $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
 $label-color: $grey-lighter;
+
+$navbar-background-color: $green-100;
+$navbar-item-color: $green-900;
+$navbar-item-hover-color: $green-900;
+$navbar-item-hover-background-color: $green-200;
+$navbar-dropdown-item-hover-background-color: $green-400;
+$navbar-dropdown-background-color: $green-200;
+$navbar-divider-background-color: $grey-lighter;
+
+$content-heading-color: $green-900;
+
+$footer-background-color: $green-100;
 
 // add hero background image capacity
 .hero-cs {
@@ -39,15 +60,3 @@ $label-color: $grey-lighter;
 
 // Import only what you need from Bulma
 @import "../../bulma/bulma.sass";
-
-// change title colors
-.content h1,
-.content h2,
-.content h3,
-.content h4,
-.content h5,
-.content h6 {
-  color: #637263;
-  font-weight: 600;
-  line-height: 1.125;
-}
