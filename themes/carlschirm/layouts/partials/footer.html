@@ -1,11 +1,6 @@
       <footer class="footer">
-        <div class = "columns">
-          <div class="column is-half">
-            <figure>
-              <img src="{{ print "images/" .Site.Params.logoFooter | relURL }}">
-            </figure>
-          </div>
-          <div class="column is-one-quarter">
+        <div class="columns">
+          <div class="column is-one-half">
             <div class="content">
               Carl Schirm GmbH & Co. Krüger KG
               <br>
@@ -29,6 +24,11 @@
               <br>
               <a href="/sitemap.xml">Sitemap</a>
             </div>
+          </div>
+          <div class="column is-one-quarter has-text-centered">
+            <figure>
+              <img src="{{ print "images/" .Site.Params.logoFooter | relURL }}">
+            </figure>
           </div>
         </div>
       </footer>

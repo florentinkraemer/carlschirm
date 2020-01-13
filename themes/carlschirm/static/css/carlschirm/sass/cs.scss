@@ -23,7 +23,7 @@ $grey-lighter: #DBDBDB;
 // Update Bulma's global variables
 $family-sans-serif: "Fira Sans", sans-serif;
 $primary: $pink;
-$link: $green-600;
+$link: $green-900;
 $link-hover: $green-900;
 $dark: $green-900;
 $body-color: $grey-dark;
@@ -38,25 +38,35 @@ $input-border-color: transparent;
 $input-shadow: none;
 $label-color: $grey-lighter;
 
-$navbar-background-color: $green-100;
-$navbar-item-color: $green-900;
-$navbar-item-hover-color: $green-900;
-$navbar-item-hover-background-color: $green-200;
-$navbar-dropdown-item-hover-background-color: $green-400;
-$navbar-dropdown-background-color: $green-200;
-$navbar-divider-background-color: $grey-lighter;
+// $navbar-background-color: $green-100;
+// $navbar-item-color: $green-900;
+// $navbar-item-hover-color: $green-900;
+// $navbar-item-hover-background-color: $green-200;
+// $navbar-dropdown-item-hover-background-color: $green-400;
+// $navbar-dropdown-background-color: $green-200;
+// $navbar-divider-background-color: $grey-lighter;
 
 $content-heading-color: $green-900;
 
-$footer-background-color: $green-100;
+// $footer-background-color: $green-400;
 
 // add hero background image capacity
 .hero-cs {
   @extend .hero;
-  	background-image: url('/images/home/gewerbepark_schirm_05.jpg');
+  	background-image: url('/images/home/gewerbepark_schirm_09.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;}
 
 // Import only what you need from Bulma
 @import "../../bulma/bulma.sass";
+
+nav {
+	a:hover {
+		text-decoration:none;
+	}
+}
+
+a:hover {
+	text-decoration: underline;
+}

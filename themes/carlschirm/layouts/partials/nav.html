@@ -1,6 +1,7 @@
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<!-- uncomment to obtain green navbar -->
+<!-- <nav class="navbar" role="navigation" aria-label="main navigation"> -->
 <!-- uncomment to obtain previous navbar -->
-<!-- <nav class="navbar is-light" role="navigation" aria-label="main navigation"> -->  
+<nav class="navbar is-light" role="navigation" aria-label="main navigation">  
   <div class="navbar-brand">
     <a class="navbar-item" href="/">
       <img  src="{{ print "images/" .Site.Params.logo.url | relURL }}"
@@ -25,6 +26,10 @@
         </a>
 
         <div class="navbar-dropdown">
+          <a class="navbar-item" href="/impressionen/">
+            Impressionen
+          </a>
+          <hr class="navbar-divider">
           <a class="navbar-item" href="/vermietung/">
             Vermietung
           </a>
@@ -44,8 +49,8 @@
         </a>
 
         <div class="navbar-dropdown">
-          <a class="navbar-item" href="/neuigkeiten/">
-            Neuigkeiten
+          <a class="navbar-item" href="/aktuelles/">
+            Aktuelles
           </a>
           <hr class="navbar-divider">
           <a class="navbar-item" href="/ueber-uns/">
@@ -55,11 +60,8 @@
             Historie
           </a>
           <hr class="navbar-divider">
-          <a class="navbar-item" href="/impressionen/">
-            Impressionen
-          </a>
           <a class="navbar-item" href="/anfahrt/">
-            Lageplan
+            Anfahrt
           </a>
         </div>
       </div>

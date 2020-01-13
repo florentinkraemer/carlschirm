@@ -20,7 +20,7 @@ theme = "carlschirm"
     # path to the favicon, under "static"
     favicon = "favicon.ico"
 
-    logoFooter = "cs_fabrik.png"
+    logoFooter = "cs_stern_bw_nobg.png"
 
     [params.logo]
     url = "cs_fabrik.png"
