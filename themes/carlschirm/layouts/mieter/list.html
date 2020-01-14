@@ -2,6 +2,9 @@
 
 <div class="section">
   <div class="container">
+    <div class="content has-text-light">
+      {{ .Content }}
+    </div>
     <div class="columns is-multiline">
       {{ range .Pages }}
         <div class="column is-one-quarter">
@@ -10,8 +13,8 @@
               <div class="card-header-title">{{ .Title }}</div>
             </div>    
             <div class="card-image">
-              <figure class="image">
-                <img src="{{ .Params.imagepath | relURL }}">
+              <figure class="image is-flex is-horizontal-center">
+                <a href="{{ .Params.link | relURL }}"><img src="{{ .Params.imagepath | relURL }}"></a>
               </figure>
             </div>
             <div class="card-content">
@@ -19,11 +22,43 @@
             </div>
             <div class="card-footer">
               <div class="card-content">
-              <div class="tags">
+                <div class="columns is-multiline">
+                  <div class="column is-half has-text-centered">
+                    <button class="button is-fullwidth is-rounded is-light">
+                      <span class="icon">
+                        <a href="{{ .Params.emaillink }}"><i class="fas fa-at"></i></a>
+                      </span>
+                    </button>
+                  </div>
+                  <div class="column is-half has-text-centered">
+                    <button class="button is-fullwidth is-rounded is-light">
+                      <span class="icon">
+                        <a href="{{ .Params.link | relURL }}"><i class="fas fa-home"></i></a>
+                      </span>
+                    </button>
+                  </div>
+                  {{ range .Params.phone }}
+                  <div class="column has-text-centered is-full">
+                      <span class="icon">
+                        <a href="tel:{{ . }}"><i class="fas fa-phone"></i></a>
+                      </span>
+                      {{ . }}
+                  </div>
+                  {{ end }}
+                  {{ if .Params.telefax }}
+                  <div class="column has-text-centered is-full">
+                      <span class="icon">
+                        <i class="fas fa-fax"></i>
+                      </span>
+                      {{ .Params.telefax }}
+                  </div>
+                  {{ end }}
+                </div>
+<!--               <div class="tags">
                 {{ range .Params.tags }}
                 <span class="tag is-rounded">{{ . }}</span>
                 {{ end }}
-              </div>
+              </div> -->
               </div>
             </div>
           </div>

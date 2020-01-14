@@ -9154,4 +9154,16 @@ a:hover {
   text-decoration: underline;
 }
 
+.card {
+  height: 100%;
+}
+
+.card-image {
+  padding: 10px 10px 5px 5px;
+}
+
+.is-horizontal-center {
+  justify-content: center;
+}
+
 /*# sourceMappingURL=cs.css.map */
