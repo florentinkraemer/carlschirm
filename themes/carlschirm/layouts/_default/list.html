@@ -5,7 +5,7 @@
 		<div class="column is-half is-offset-one-quarter">
 			<div class= "content has-text-light">
 			  	{{ .Content }}
-			  	{{ range .Pages.ByDate}}
+			  	{{ range .Pages.ByDate.Reverse }}
 			  	<h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
 			  	<h6>{{.Date.Format "02.01.2006"}}</h6>
 			  	<p>	{{ .Summary }}

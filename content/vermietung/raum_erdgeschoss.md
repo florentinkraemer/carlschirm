@@ -1,16 +1,15 @@
 +++
 title = "Produktionsräume mit Büro und Lagerfläche"
-date = 2019-03-02T23:41:55+01:00
-floorplan = "/images/vermietung/CarlSchirm-MB-S-EG-5.png"
-floorplanDownload = "/images/vermietung/CarlSchirm-MB-S-EG-5.pdf"
+date = "2020-01-16"
+floorplan = "/images/vermietung/cs_mb_s_eg_5_klein.jpg"
+floorplanDownload = "/images/vermietung/cs_mb_s_eg_5.pdf"
 +++
 
-- Büro + Produktion ca. 210 qm
-- Lagerflächen ca. 67 qm + 130 qm
-- Lage im Erdgeschoss
+- Büro, Produktions- und Sozialräume ca. 213 qm
+- Lager ca. 67 qm
+- Lage im Erdgeschoss mit ebenerdigem Zugang vom Innenhof aus
+- Separater, regulierbarer Heizungskreislauf mit individueller Abrechnung
+- Nutzung nach Absprache und baurechtlicher Möglichkeit
+- Bezug nach Vereinbarung
 
-Zugang über den Innenhof.
-
-Individuell regulierbarer Heizkreislauf, separat nach Verbrauch abgerechnet.
-
-Verfügbar ab März/April 2019.
+Verfügbar ab sofort.
