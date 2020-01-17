@@ -9,14 +9,14 @@ Die Firma wurde im Jahr 1900 durch Herrn Carl Schirm gegründet und unter dem Na
 
 <div class="columns">
 	<div class="column is-half">
-		<div class="image is-16by9">
+		<div class="image is-4by3">
 			<figure>
 				<img src="../images/historie/1.jpg">
 			</figure>
 		</div>
 	</div>
 	<div class="column is-half">
-		<div class="image is-16by9">
+		<div class="image is-4by3">
 			<figure>
 				<img src="../images/historie/2.jpg">
 			</figure>
@@ -28,14 +28,14 @@ Die Firma wurde im Jahr 1900 durch Herrn Carl Schirm gegründet und unter dem Na
 
 <div class="columns">
 	<div class="column is-half">
-		<div class="image is-16by9">
+		<div class="image is-4by3">
 			<figure>
 				<img src="../images/historie/3.jpg">
 			</figure>
 		</div>
 	</div>
 	<div class="column is-half">
-		<div class="image is-16by9">
+		<div class="image is-4by3">
 			<figure>
 				<img src="../images/historie/4.jpg">
 			</figure>

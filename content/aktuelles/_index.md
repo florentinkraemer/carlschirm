@@ -2,4 +2,4 @@
 title = "Aktuelles"
 +++
 
-# Ankündigungen & aktuelle Entwicklungen
+# Aktuelles
