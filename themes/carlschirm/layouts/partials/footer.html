@@ -27,7 +27,10 @@
           </div>
           <div class="column is-one-quarter has-text-centered">
             <figure>
-              <img src="{{ print "images/" .Site.Params.logoFooter | relURL }}">
+              <img  src="{{ print "images/" .Site.Params.logoFooter.url | relURL }}"
+                    width="{{ .Site.Params.logoFooter.width }}"
+                    height="{{ .Site.Params.logoFooter.height }}"
+                    alt="{{ .Site.Params.logoFooter.alt }}">
             </figure>
           </div>
         </div>

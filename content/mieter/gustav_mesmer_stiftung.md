@@ -1,6 +1,6 @@
 +++
 title = "Gustav Mesmer Stiftung"
-imagepath = "images/mieter/gustav_mesmer.png"
+imagepath = "images/mieter/gustav_mesmer_black.png"
 phone = ["+49 (0)7121 7012-0"]
 link = "https://gustavmesmer.de"
 email = "ikarus@gustavmesmer.de"

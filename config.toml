@@ -20,13 +20,17 @@ theme = "carlschirm"
     # path to the favicon, under "static"
     favicon = "favicon.ico"
 
-    logoFooter = "cs_stern_bw_nobg.png"
+    [params.logoFooter]
+    url = "cs_logo_transparent.png"
+    width = 120
+    height = 125
+    alt = "Logo Carl Schirm"
 
     [params.logo]
     url = "cs_fabrik.png"
     width = 120
     height = 120
-    alt = "Carl Schirm"
+    alt = "Gebäudeansicht Carl Schirm"
 
 [sitemap]
     changefreq = "monthly"
