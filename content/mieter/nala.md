@@ -8,4 +8,4 @@ email = "atelier@nala-bridalcouture.de"
 emaillink = "mailto:atelier@nala-bridalcouture.de"
 +++
 
-[NALA bridal couture](https://www.nala-bridalcouture.de) steht für handgefertigte Brautkleidunikate. Leichtigkeit, Natürlichkeit und stilvolle Eleganz beschreiben die Seele der Kleider. Jedes Brautkleid wird vom ersten Bleistiftstrich bis zum letzten Nadelstich in unserem Atelier in Kirchentellisfurt gefertigt.
+[NALA bridal couture](https://www.nala-bridalcouture.de) steht für handgefertigte Brautkleidunikate nach Maß. Leichtigkeit, Natürlichkeit und stilvolle Eleganz beschreiben die Seele der Kleider. Jedes Brautkleid wird vom ersten Bleistiftstrich bis zum letzten Nadelstich in unserem Atelier in Kirchentellinsfurt gefertigt.
