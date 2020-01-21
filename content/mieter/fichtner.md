@@ -8,4 +8,4 @@ email = "info@fichtner-tontechnik.de"
 emaillink = "mailto:info@fichtner-tontechnik.de"
 +++
 
-Verleih von Beleuchtungs- und Beschallungsanlagen für Großveranstaltungen und deren Wartung und Betrieb.
+Verleih von Beleuchtungs- und Beschallungsanlagen für Großveranstaltungen und deren Wartung und Betrieb

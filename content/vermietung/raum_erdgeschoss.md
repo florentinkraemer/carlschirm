@@ -11,5 +11,3 @@ floorplanDownload = "/images/vermietung/cs_mb_s_eg_5.pdf"
 - Separater, regulierbarer Heizungskreislauf mit individueller Abrechnung
 - Nutzung nach Absprache und baurechtlicher Möglichkeit
 - Bezug nach Vereinbarung
-
-Verfügbar ab sofort.

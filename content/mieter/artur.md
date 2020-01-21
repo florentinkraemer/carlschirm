@@ -7,4 +7,4 @@ email = "hartmaier@artur-verlag.de"
 emaillink = "mailto:hartmaier@artur-verlag.de"
 +++
 
-Verlag für das artur-Magazin sowie „Alblust“---Das Magazin über die schwäbische Alb
+Verlag für das artur-Magazin sowie „Alblust“ -- Das Magazin über die schwäbische Alb

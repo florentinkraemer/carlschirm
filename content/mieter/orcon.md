@@ -8,4 +8,4 @@ email = "info@orcon.de"
 emaillink = "mailto:info@orcon.de"
 +++
 
-Wir bieten eine professionelle & CAD-Hersteller unabhängige Software für die Verwaltung & Verteilung von Produktinformationen im Unternehmen. Eine Lösung, die sich hautnah an die Anforderungen Ihres Unternehmens anpassen lässt.
+Wir bieten eine professionelle und CAD-Hersteller-unabhängige Software für die Verwaltung und Verteilung von Produktinformationen im Unternehmen. Eine Lösung, die sich hautnah an die Anforderungen Ihres Unternehmens anpassen lässt.

@@ -8,4 +8,4 @@ email = "info@designfabrik.de"
 emaillink = "mailto:info@designfabrik.de"
 +++
 
-Individuelle Beratung zu Einrichtungs- und Lichtfragen durch Innenarchitekten, Architekten und unser Fachpersonal. Ganzheitliche Wohnhauslösungen.
+In unserer neu gestalteten *occhiogallery by hecht* finden Sie Licht, langlebige Möbel und Lampen. Wir bieten ein reichhaltiges Angebot sowie individuelle Beratung zu Einrichtungs- und Lichtfragen durch Innenarchitekten, Architekten und unser Fachpersonal. Auch wenn Sie eine ganzheitliche Wohnhauslösung benötigen sind wir für Sie da.

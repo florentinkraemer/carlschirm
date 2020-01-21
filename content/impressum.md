@@ -40,5 +40,5 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 Die Bilder, die auf dieser Seite Verwendung finden, stammen aus folgenden Quellen:
 
-- [Andreas Keller](http://www.keller-fotografie.de) (Bild auf [Titelseite](https://www.gewerberaum-carl-schirm.de/) sowie sämtliche Bilder auf der Seite [Impressionen](https://www.gewerberaum-carl-schirm.de/impressionen))
+- [Andreas Keller](http://www.keller-fotografie.de) (Bild auf [Titelseite](https://www.carlschirm.de/) sowie sämtliche Bilder auf der Seite [Impressionen](https://www.carlschirm.de/impressionen))
 - Eigene Bearbeitungen von Archivmaterial

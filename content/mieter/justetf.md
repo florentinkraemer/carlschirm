@@ -8,4 +8,4 @@ email = "info@justetf.com"
 emaillink = "mailto:info@justetf.com"
 +++
 
-justETF ist der Online Ratgeber rund um Geldanlage mit Exchange Traded Funds (ETFs).
+justETF ist der Online-Ratgeber rund um Geldanlage mit Exchange Traded Funds (ETFs).
