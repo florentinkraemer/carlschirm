@@ -7,4 +7,5 @@ email = "ikarus@gustavmesmer.de"
 emaillink = "mailto:ikarus@gustavmesmer.de"
 +++
 
-Gustav Mesmer, "Ikarus vom Lautertal" genannt, war Flugradbauer, Tüftler, Korbmacher. Hörspiel, Buch, Katalog und Film.
+Gustav Mesmer, "Ikarus vom Lautertal" genannt, war Flugradbauer, Tüftler, Korbmacher. Die Stiftung hat zur Aufgabe, Gustav Mesmers Werk zu bewahren und der Öffentlichkeit zugänglich zu machen. 
+<!-- Hörspiel, Buch, Katalog und Film. -->
