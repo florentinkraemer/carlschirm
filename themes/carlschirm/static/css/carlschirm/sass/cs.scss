@@ -19,6 +19,8 @@ $beige-light: #D0D1CD;
 $beige-lighter: #EFF0EB;
 $grey-dark: #292929;
 $grey-lighter: #DBDBDB;
+$white-ter:    hsl(0, 0%, 96%) !default;
+
 
 // Update Bulma's global variables
 $family-sans-serif: "Fira Sans", sans-serif;
@@ -54,6 +56,8 @@ $content-heading-color: $green-900;
 .hero-cs {
   @extend .hero;
   	background-image: url('/images/home/gewerbepark_schirm_09.jpg');
+  	// opacity: 0.5;
+  	z-index: -1;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;}
@@ -82,3 +86,4 @@ a:hover {
 .is-horizontal-center {
   justify-content: center;
 }
+

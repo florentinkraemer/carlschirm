@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Fira+Sans");
 .hero-cs {
   background-image: url("/images/home/gewerbepark_schirm_09.jpg");
+  z-index: -1;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
