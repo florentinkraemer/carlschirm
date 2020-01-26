@@ -18,4 +18,4 @@ Unsere Räume tragen den Charme vergangener Tage -- dennoch erwartet Sie bei uns
 - nächste Bahnstation und Busanbindung in ca. 200 m Entfernung
 - Anbindung an den Neckartal-Radweg
 
-Gerne [beantworten wir](mailto:info@carlschirm.de) Ihnen Ihre Fragen.
+Gerne [beantworten wir](mailto:info@carl-schirm.de) Ihnen Ihre Fragen.

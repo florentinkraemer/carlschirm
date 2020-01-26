@@ -8,4 +8,4 @@ email = "info@corvus-toys.de"
 emaillink = "mailto:info@corvus-toys.de"
 +++
 
-[Corvus](https://www.corvus-toys.de) betreibt seit 1992 einen Großhandel für Bastelwerkzeug und Musikinstrumenten für Kinder. Produktserien: Kids at Work und Rattlesnake.
+[Corvus](https://www.corvus-toys.de) betreibt seit 1992 einen Großhandel für Bastelwerkzeug und Musikinstrumente für Kinder. Produktserien: Kids at Work und Rattlesnake.
