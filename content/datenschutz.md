@@ -13,7 +13,7 @@ Herr Steffen Krämer
 Carl Schirm GmbH & Co. Krüger KG  
 Bahnhofstraße 26  
 72138 Kirchentellinsfurt  
-[steffen.kraemer@carlschirm.de](steffen.kraemer@carlschirm.de)
+[steffen.kraemer@carl-schirm.de](steffen.kraemer@carl-schirm.de)
  
 #### Datenerhebung
 
@@ -68,7 +68,7 @@ Durch die datenschutzrechtlichen Vorschriften haben Sie eine Vielzahl an Rechten
 
 #### Einwilligung
 
-In die Verarbeitung Ihrer Daten können Sie einwilligen. Diese Einwilligung erfolgt freiwillig. Im Fall einer Einwilligung können wir Ihre personenbezogenen Daten auch nach Wegfall des Verarbeitungszwecks verarbeiten. Sollten Sie eine Einwilligung in die Verarbeitung Ihrer Daten erteilt haben, ist diese Einwilligung jederzeit und formfrei widerruflich. Diesen Widerruf können Sie uns gegenüber erklären (Carl Schirm GmbH & Co. Krüger KG, Bahnhofstraße 26, 72138 Kirchentellinsfurt, [info@carlschirm.de](info@carlschirm.de)).
+In die Verarbeitung Ihrer Daten können Sie einwilligen. Diese Einwilligung erfolgt freiwillig. Im Fall einer Einwilligung können wir Ihre personenbezogenen Daten auch nach Wegfall des Verarbeitungszwecks verarbeiten. Sollten Sie eine Einwilligung in die Verarbeitung Ihrer Daten erteilt haben, ist diese Einwilligung jederzeit und formfrei widerruflich. Diesen Widerruf können Sie uns gegenüber erklären (Carl Schirm GmbH & Co. Krüger KG, Bahnhofstraße 26, 72138 Kirchentellinsfurt, [info@carl-schirm.de](info@carl-schirm.de)).
  
 #### Verwendung von Cookies
 
@@ -93,6 +93,6 @@ Bei Fragen zur Datenverarbeitung und für die Geltendmachung Ihrer Rechte aus de
 Carl Schirm GmbH & Co. Krüger KG  
 Bahnhofstraße 26  
 72138 Kirchentellinsfurt  
-[info@carlschirm.de](info@carlschirm.de)
+[info@carl-schirm.de](info@carl-schirm.de)
  
 Stand: Juni 2018

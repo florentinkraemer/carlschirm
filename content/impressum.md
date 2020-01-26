@@ -15,8 +15,8 @@ Bahnhofstraße 26
 
 Telefon: +49 (0)7121 60241  
 Fax: +49 (0)7121 60244  
-E-Mail: [info@gewerberaum-carl-schirm.de](info@gewerberaum-carl-schirm.de)  
-Internet: [https://www.gewerberaum-carl-schirm.de](https://www.gewerberaum-carl-schirm.de)  
+E-Mail: [info@carl-schirm.de](info@carl-schirm.de)  
+Internet: [https://www.carl-schirm.de](https://www.carl-schirm.de)
 
 ### Sitz und Register
 
@@ -40,5 +40,5 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 Die Bilder, die auf dieser Seite Verwendung finden, stammen aus folgenden Quellen:
 
-- [Andreas Keller](http://www.keller-fotografie.de) (Bild auf [Titelseite](https://www.carlschirm.de/) sowie sämtliche Bilder auf der Seite [Impressionen](https://www.carlschirm.de/impressionen))
+- [Andreas Keller](http://www.keller-fotografie.de) (Bild auf [Titelseite](https://www.carl-schirm.de/) sowie sämtliche Bilder auf der Seite [Impressionen](https://www.carl-schirm.de/impressionen))
 - Eigene Bearbeitungen von Archivmaterial
