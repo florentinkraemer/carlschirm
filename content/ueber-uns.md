@@ -18,10 +18,10 @@ title = "Über uns"
 	</div>
 	<div class="column">
 		<figure class="image is-16by9">
-			<img src="../images/ueber-uns/4.jpg">
+			<img src="/images/ueber-uns/4.jpg">
 		</figure>					
 		<figure class="image is-16by9">
-			<img src="../images/ueber-uns/5.jpg">
+			<img src="/images/ueber-uns/5.jpg">
 		</figure>						
 	</div>
 </div>
