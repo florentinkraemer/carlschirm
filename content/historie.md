@@ -11,14 +11,14 @@ Die Firma wurde im Jahr 1900 durch Herrn Carl Schirm gegründet und unter dem Na
 	<div class="column is-half">
 		<div class="image is-4by3">
 			<figure>
-				<img src="../images/historie/1.jpg">
+				<img src="/images/historie/1.jpg">
 			</figure>
 		</div>
 	</div>
 	<div class="column is-half">
 		<div class="image is-4by3">
 			<figure>
-				<img src="../images/historie/2.jpg">
+				<img src="/images/historie/2.jpg">
 			</figure>
 		</div>
 	</div>
@@ -30,14 +30,14 @@ Die Firma wurde im Jahr 1900 durch Herrn Carl Schirm gegründet und unter dem Na
 	<div class="column is-half">
 		<div class="image is-4by3">
 			<figure>
-				<img src="../images/historie/3.jpg">
+				<img src="/images/historie/3.jpg">
 			</figure>
 		</div>
 	</div>
 	<div class="column is-half">
 		<div class="image is-4by3">
 			<figure>
-				<img src="../images/historie/4.jpg">
+				<img src="/images/historie/4.jpg">
 			</figure>
 		</div>
 	</div>
@@ -45,4 +45,4 @@ Die Firma wurde im Jahr 1900 durch Herrn Carl Schirm gegründet und unter dem Na
 
 In diesen Jahren waren etwa 400 Angestellte und Lohnempfänger bei *Carl Schirm* beschäftigt. Die Öffnung des Marktes innerhalb der damals gegründeten Europäischen Wirtschaftsgemeinschaft führte zu einem erheblichen Preisdruck, der 1967 zuerst die Stilllegung der Spinnerei nach sich zog und nachfolgend weitere Rationalisierungen und Personalabbau forderte. Im Zuge der Globalisierung und der damit verbundenen internationalen Konkurrenz konnte auch die Firma *Carl Schirm* dem Preisdruck nicht standhalten und musste schrittweise die Mitarbeiterzahl auf 95 reduzieren und letztlich die Produktion 1987 vollständig einstellen. Um dem Schicksal der unzähligen Textilbetriebe der Umgebung zu entgehen, beschlossen die Eigentümer die Wiederbelebung der Traditionsfirma mit anderen Mitteln zu versuchen und begannen, die Gebäudestrukturen für neue Nutzungen tauglich zu machen.
 
-{{< load-photoswipe >}}
+<!-- {{< load-photoswipe >}} -->

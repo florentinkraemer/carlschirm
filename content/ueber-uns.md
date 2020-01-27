@@ -17,6 +17,8 @@ title = "Über uns"
 		</div>
 	</div>
 	<div class="column">
+<!-- 		{{< figure src="/images/ueber-uns/4.jpg" class="image is-16by9" alt="Ansicht des Gebäudes im Jahr 1903" attr="Andreas Keller" >}}
+		{{< figure src="/images/ueber-uns/5.jpg" class="image is-16by9" alt="Ansicht des Gebäudes im Jahr 1928" attr="Andreas Keller" >}}	 -->	
 		<figure class="image is-16by9">
 			<img src="/images/ueber-uns/4.jpg">
 		</figure>					
@@ -25,3 +27,5 @@ title = "Über uns"
 		</figure>						
 	</div>
 </div>
+
+<!-- {{< load-photoswipe >}} -->
