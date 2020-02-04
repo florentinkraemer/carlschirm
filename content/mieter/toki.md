@@ -1,6 +1,6 @@
 +++
 title = "toki design"
-imagepath = "images/mieter/toki-design.png"
+imagepath = "images/mieter/toki_design.svg"
 phone = ["+49 (0)7121 1361329"]
 link = "https://toki-design.de"
 email = "hello@toki-design.de"
