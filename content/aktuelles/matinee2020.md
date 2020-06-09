@@ -3,6 +3,10 @@ title = "Südamerikanische Matinee"
 date = "2020-01-17"
 +++
 
+<div class="notification is-primary">
+  <em>Hinweis:</em> die Veranstaltung wird auf einen späteren Zeitpunkt verschoben. Wir aktualisieren diese Seite, sobald der neue Termin feststeht.
+</div>
+
 Seit vielen Jahren dient der Innenhof des Gewerbeparks als Veranstaltungsort für Open-Air-Konzerte, organisiert von [Kultur im Schloss](https://www.kulturimschloss.de). In diesem Jahr findet statt des üblichen Abendprogramms eine Matinee am *Sonntag, den 21. Juni 2020* um *11:00 Uhr* statt. 
 
 [Karten](https://www.kulturimschloss.de/programm/detail/article/suedamerikanische-matinee-im-schirm.html) sind über Kultur im Schloss erhältlich. Wir laden Sie sehr herzlich zu einem Besuch ein!
