@@ -1,10 +1,10 @@
 +++
 title = "Südamerikanische Matinee"
-date = "2020-01-17"
+date = "2020-07-03"
 +++
 
 <div class="notification is-primary">
-  <em>Hinweis:</em> die Veranstaltung wird auf einen späteren Zeitpunkt verschoben. Wir aktualisieren diese Seite, sobald der neue Termin feststeht.
+  <em>Hinweis:</em> die Veranstaltung wurde auf Sonntag, den 19.07.2020 verschoben und wird im Schützenhaus stattfinden. Genauere Informationen erhalten Sie [hier](https://www.kulturimschloss.de).
 </div>
 
 Seit vielen Jahren dient der Innenhof des Gewerbeparks als Veranstaltungsort für Open-Air-Konzerte, organisiert von [Kultur im Schloss](https://www.kulturimschloss.de). In diesem Jahr findet statt des üblichen Abendprogramms eine Matinee am *Sonntag, den 21. Juni 2020* um *11:00 Uhr* statt. 

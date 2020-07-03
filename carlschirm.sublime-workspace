@@ -1,0 +1,505 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"tex"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"sect",
+				"\\section*{}"
+			],
+			[
+				"use",
+				"\\usepackage"
+			],
+			[
+				"subes",
+				"\\subsection{}"
+			],
+			[
+				"subse",
+				"\\subsection{}"
+			],
+			[
+				"subect",
+				"\\subsection{}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					"Force"
+				]
+			],
+			[
+				"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					"Force"
+				],
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					"Clean (Force)"
+				]
+			],
+			[
+				"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXBox/support/LaTeXBox.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXBox/support/LaTeXBox.sublime-build",
+					"Force"
+				]
+			],
+			[
+				"Packages/LaTeXBox/support/LaTeXBox.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"latex",
+				"Build With: LaTeX - XeLaTeX"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"buil",
+				"Build: New Build System"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"Build With: R Markdown"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"late",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"LaTeXBox: Build (force)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Florentin/Webseiten/git/carlschirm"
+	],
+	"file_history":
+	[
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/Uniklinikum_Heidelberg/makefile",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/Uniklinikum_Heidelberg/letter.md",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/Encavis/letter.md",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/Bundesnetzagentur/letter.md",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Lebenslauf/Aktuell/nonacademic/current/CVFlorentinKraemer.tex",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/FZ_Jülich/letter.md",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/DKFZ/letter.md",
+		"/Users/Florentin/Finanzen/TheLongAndTheShortOfIt.md",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/Fraunhofer/Besinnungsaufsatz Fraunhofer ISI.md",
+		"/Users/Florentin/Documents/Briefe_Anschreiben/_Template/template.tex",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/CCC/letter.md",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/Helvetia/letter.md",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Lebenslauf/Aktuell/academic/CV_FlorentinKraemer.tex",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/Uni_Bochum/letter.md",
+		"/Users/Florentin/Tresors/Beruflich/Bewerbungsunterlagen/Bewerbungen/Fraunhofer/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Phineo/letter.md",
+		"/Users/Florentin/Documents/Carl Schirm/20200110_gesprächsprotokoll_bergfreunde.md",
+		"/Users/Florentin/Documents/Carl Schirm/Vision/zukunftspfad.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/FCBayern/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Lebenslauf/Aktuell/nonacademic/current/LebenslaufFlorentinKraemer.tex",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/BonVenture/template.tex",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/BonVenture/letter.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/mieter/bergfreunde.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/mieter/anmutundsinn.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/mieter/toki.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/mieter/hartmaiermangold.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/mieter/corvus.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/mieter/artur.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/historie.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts/gallery/single.html",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/static/css/carlschirm/css/cs.css",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/static/css/bulma/css/bulma.css",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/neuigkeiten/_index.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/neuigkeiten/beispiel_2.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts/_default/single.html",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts/_default/list.html",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/historie_detail.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts/anfahrt/single.html",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/neuigkeiten/beispiel.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/static/css/iframes_responsive.css",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/static/css/googlmaps.css",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/static/css/carlschirm/sass/cs.scss",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts/partials/head.html",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/static/css/hugo-easy-gallery.css",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/mieter/_index.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/ueber-uns.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/impressionen.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/kontakt.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/impressum.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/datenschutz.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/anfahrt.md",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts/partials/nav.html",
+		"/Users/Florentin/Webseiten/git/carlschirm/config.toml",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts/shortcodes/foldergallery.html",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/gallery.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Bundeskartellamt/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Lebenslauf/Aktuell/nonacademic/current/CVFlorentinKraemer.tex",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Bundeskartellamt/template.tex",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Bundeskartellamt/makefile",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/FCBayern/template.tex",
+		"/Users/Florentin/Webseiten/florentinkraemer.com/blogdown/themes/hugo-phineas/config.yaml",
+		"/Users/Florentin/Webseiten/florentinkraemer.com/config.yaml",
+		"/Users/Florentin/Documents/Sonstiges/python_pdf/pdf_script.py",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/BCGGamma/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/BCGGamma/CoverLetter.pdf",
+		"/Volumes/FLORENTIN/facebook.txt",
+		"/Users/Florentin/Documents/Aulos/Dokumente/Zuwendungsbestätigung/letter.md",
+		"/Users/Florentin/Downloads/kjhealy-latex-custom-kjh-06f49ad/needs-org-mode/org-preamble-pdflatex.sty",
+		"/Users/Florentin/Webseiten/Whatif_Economics/themes/hugo-icon/layouts/partials/header.html",
+		"/Users/Florentin/Webseiten/Whatif_Economics/config.toml",
+		"/Users/Florentin/Webseiten/Whatif_Economics/content/impressum/impressum.md",
+		"/Users/Florentin/Webseiten/atheon/themes/hugo-icon/static/css/style.css",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Sustainability, Animal Welfare and Ethics - A Personality Study/Paper/Final/Animal Welfare and Human Ethics_20171213.tex",
+		"/Users/Florentin/Desktop/Aulos Reparatur/title: Anmeldung",
+		"/private/var/folders/6_/d16jmcls09vfbkg2vf70w6w40000gn/T/fz3temp-2/email.yaml",
+		"/Users/Florentin/Webseiten/atheon/themes/hugo-icon/layouts/partials/header.html",
+		"/Users/Florentin/Webseiten/Whatif_Economics/themes/hugo-icon/layouts/partials/js.html",
+		"/Users/Florentin/Webseiten/Whatif_Economics/themes/hugo-icon/static/css/style.css",
+		"/Users/Florentin/Webseiten/Whatif_Economics/themes/hugo-icon/layouts/partials/mission.html",
+		"/Users/Florentin/Webseiten/Whatif_Economics/themes/hugo-icon/layouts/partials/services.html",
+		"/Users/Florentin/Webseiten/Whatif_Economics/themes/hugo-icon/layouts/partials/contact-form.html",
+		"/Users/Florentin/Webseiten/whatif/config.toml",
+		"/Users/Florentin/Webseiten/whatif/themes/hugo-icon/exampleSite/config.toml",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/MediaMarktSaturn/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Giesecke+Devrient/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Optware/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/BMW/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Allianz/letter.md",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Lebenslauf/Aktuell/nonacademic/Lebenslauf_FlorentinKraemer.tex",
+		"/Users/Florentin/Dropbox/Verhaltensökonomische Beratung/LaTeX/Themes/metropolis/thesaltlake.sty",
+		"/Users/Florentin/Dropbox/Sustainability, Animal Welfare and Ethics/Paper/Animal Welfare and Human Ethics_20170808.tex",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Allianz/template.tex",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Context Dependence in Speed Dating/Paper/Current Version/ContextDependenceInSpeedDatingv5.tex",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Context Dependence in Speed Dating/Paper/Current Version/main4.tex",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/KonicaMinolta/output.pdf",
+		"/Users/Florentin/Dropbox/LaTeX/Themes/metropolis/thesaltlake.sty",
+		"/Users/Florentin/Dropbox/LaTeX/Themes/metropolis/perfection.sty",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Context Dependence in Speed Dating/Data/tex/main_interaction_consensus.tex",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Context Dependence in Speed Dating/Data/tex/main_interaction_consensus_betterifcloser3.tex",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Context Dependence in Speed Dating/Data/tex/main_interaction_consensus_betterifcloser2.tex",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Context Dependence in Speed Dating/Data/tex/main_interaction_consensus_betterifcloser1.tex",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Context Dependence in Speed Dating/Data/tex/main_interaction_consensus_new.tex",
+		"/Users/Florentin/Desktop/Research Manager : Economist (m:f) Deloitte EMEA R",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/Deloitte/Vorbereitung Bewerbungsgespräch/Vorbereitung Bewerbungsgespräch",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Bewerbungen/KonicaMinolta/letter.md",
+		"/Users/Florentin/Webseiten/grav/pw",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Deloitte/template.tex",
+		"/Users/Florentin/Documents/Pandoc/TheBehaviouralist/letter.md",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Sustainability, Animal Welfare and Ethics - A Personality Study/Paper/Final/regression_nomsfirst.tex",
+		"/Users/Florentin/Documents/Bewerbungsunterlagen/Lebenslauf/Deutsch/Lebenslauf Feli.tex",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/plugins/form/templates/forms/default/data.html.twig",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/pages/02.musikwoche-2018/04.anmeldung/thankyou/formdata.md",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/plugins/form/languages.yaml",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/plugins/form/templates/formdata.html.twig",
+		"/Users/Florentin/Documents/Pandoc/Worldbank/template.tex",
+		"/Users/Florentin/Documents/Pandoc/Worldbank/letter.md",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/pages/02.musikwoche-2018/04.anmeldung/form.md",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/pages/03.verein/02.mitglied-werden/form.md",
+		"/Users/Florentin/Dropbox/Aulos/Website/aulos/config.toml",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/themes/g5_helium/admin/templates/error.html.twig",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/plugins/form/templates/forms/default/form.html.twig",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/plugins/form/templates/forms/data.html.twig",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/plugins/form/templates/forms/form.html.twig",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/plugins/form/templates/form.html.twig",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/pages/04.musikwoche-2018/04.anmeldung/thankyou/formdata.md",
+		"/Users/Florentin/Webseiten/grav/aulos_new/user/plugins/form/templates/form-messages.html.twig",
+		"/Users/Florentin/Dropbox/Bewerbungsunterlagen/Lebenslauf/kjhealy/kjh-vita.tex",
+		"/Users/Florentin/Dropbox/Eigene Projekte/Context Dependence in Speed Dating/Data/do/main.do"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 117.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "carlschirm.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
