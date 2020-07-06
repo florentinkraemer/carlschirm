@@ -4,7 +4,7 @@ date = "2020-07-03"
 +++
 
 <div class="notification is-primary">
-  <em>Hinweis:</em> die Veranstaltung wurde auf Sonntag, den 19.07.2020 verschoben und wird im Schützenhaus stattfinden. Genauere Informationen erhalten Sie [hier](https://www.kulturimschloss.de).
+  <em>Hinweis:</em> die Veranstaltung wurde auf Sonntag, den 19.07.2020 verschoben und wird im Schützenhaus stattfinden. Genauere Informationen erhalten Sie <a href="https://www.kulturimschloss.de">hier</a>.
 </div>
 
 Seit vielen Jahren dient der Innenhof des Gewerbeparks als Veranstaltungsort für Open-Air-Konzerte, organisiert von [Kultur im Schloss](https://www.kulturimschloss.de). In diesem Jahr findet statt des üblichen Abendprogramms eine Matinee am *Sonntag, den 21. Juni 2020* um *11:00 Uhr* statt. 

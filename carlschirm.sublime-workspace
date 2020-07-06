@@ -35,6 +35,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 216,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/aktuelles/matinee2020.md",
+			"settings":
+			{
+				"buffer_size": 1734,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -233,7 +251,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Florentin/Webseiten/git/carlschirm"
+		"/Users/Florentin/Webseiten/git/carlschirm",
+		"/Users/Florentin/Webseiten/git/carlschirm/content",
+		"/Users/Florentin/Webseiten/git/carlschirm/content/aktuelles",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts",
+		"/Users/Florentin/Webseiten/git/carlschirm/themes/carlschirm/layouts/partials"
 	],
 	"file_history":
 	[
@@ -399,8 +423,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/aktuelles/matinee2020.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
