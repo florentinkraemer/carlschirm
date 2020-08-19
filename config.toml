@@ -2,6 +2,8 @@ baseURL = "https://www.carl-schirm.de/"
 languageCode = "de-DE"
 title = "Carl Schirm"
 theme = "carlschirm"
+# shorten the summary length of news articles to x words
+summaryLength = 50
 
 # copyright
 
