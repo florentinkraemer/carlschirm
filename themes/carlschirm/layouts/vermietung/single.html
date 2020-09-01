@@ -13,12 +13,14 @@
 	  		{{ .Content}}  		
   		</div>
   		</div>
+      {{ if .Params.floorplan }}
   		<div class="column">
   			<h4>Grundriss</h4>
   			<figure class="image is-128x128">
   				<a href="{{ .Params.floorplanDownload }}"><img src="{{ .Params.floorplan }}"></a>
   			</figure>
   		</div>
+      {{ end }}
   	</div>
   </div>
 </article>
