@@ -1,6 +1,6 @@
 +++
 title = "E. Brüstle"
-imagepath = "images/mieter/bruestle.png"
+imagepath = "images/mieter/bruestle.svg"
 phone = ["+49 (0)7121 550786", "+49 (0)7121 137678"]
 link = "http://www.bauunternehmen-bruestle.de"
 email = "bruestle-bau@t-online.de"
