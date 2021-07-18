@@ -1,5 +1,5 @@
 +++
-title = "Kultursommer"
+title = "Kultursommer 2020"
 date = "2020-08-12"
 +++
 
