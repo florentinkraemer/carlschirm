@@ -13,7 +13,7 @@ title = "Über uns"
 		<p>Vielleicht ist unser Gebäude deshalb bei schöpferischen Berufen so beliebt, weil es nicht die Zwänge des Neuen abfordert, sondern die Verlässlichkeit des Traditionellen ausstrahlt.</p>
 		<p>Wir beabsichtigen, diesen Kurs auch künftig zu halten, und freuen uns über Ihren Besuch auf unserer Internetseite.</p>
 		<div class="content is-small">
-			<p>Felicia Krämer | Florentin Krämer | Hans Hubert Krämer | Heiner Krämer | Laurin Krämer | Magali Krämer | Nicolaj Krämer | Raphael Krämer | Rebecca Krämer | Steffen Krämer | Vivika Krämer</p>
+			<p>Felicia Krämer | Florentin Krämer | Hans Hubert Krämer | Heiner Krämer | Laurin Krämer | Magali Krämer | Nicolaj Krämer | Raphael Krämer | Rebecca Krämer | Steffen Krämer | Vivika Andige</p>
 		</div>
 	</div>
 	<div class="column">
