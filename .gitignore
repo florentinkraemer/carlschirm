@@ -1,0 +1,5 @@
+# OSX folder attributes
+.DS_Store
+
+# lock files
+*.lock
