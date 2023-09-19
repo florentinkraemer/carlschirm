@@ -1,29 +1,42 @@
 {{ partial "header.html" .}}
 
-
 <div class="section">
-<article class="message is-dark">
-  <div class="message-header">
-    <p>{{ .Title }}</p>
-  </div>
-  <div class="message-body">
-  	<div class="columns">
-  		<div class="column is-half">
-		<div class="content">
-	  		{{ .Content}}  		
-  		</div>
-  		</div>
-      {{ if .Params.floorplan }}
-  		<div class="column">
-  			<h4>Grundriss</h4>
-  			<figure class="image is-128x128">
-  				<a href="{{ .Params.floorplanDownload }}"><img src="{{ .Params.floorplan }}"></a>
-  			</figure>
-  		</div>
-      {{ end }}
-  	</div>
-  </div>
-</article>
+  <article class="message is-dark">
+    <div class="message-header">
+      <p>{{ .Title }}</p>
+    </div>
+    <div class="message-body">
+  	   <div class="columns">
+  		    <div class="column is-half">
+		        <div class="content">
+	  		       {{ .Content}}  		
+  		      </div>
+  		    </div>
+          {{ if .Params.floorplan }}
+  		    <div class="column is-one-quarter">
+  			   <h4>Grundriss</h4>
+  			   <figure class="image is-96x96">
+  				    <a href="{{ .Params.floorplanDownload }}"><img src="{{ .Params.floorplan }}"></a>
+  			   </figure>
+  		    </div>
+          {{ end }}
+          {{ if .Params.images }}
+          <div class="column is-one-quarter">
+            <h4>Impressionen</h4>
+            <figure class="image is-96x96">
+              <a href="{{ .Params.image1 }}"><img src="{{ .Params.image1 }}"></a>
+            </figure>
+            <figure class="image is-96x96">
+              <a href="{{ .Params.image2 }}"><img src="{{ .Params.image2 }}"></a>
+            </figure>
+            <figure class="image is-96x96">
+              <a href="{{ .Params.image3 }}"><img src="{{ .Params.image3 }}"></a>
+            </figure>
+          </div>
+          {{ end }}
+  	   </div>
+    </div>
+  </article>
 </div>
 
 {{ partial "footer.html" .}}
