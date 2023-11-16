@@ -24,13 +24,13 @@ Sitz: Kirchentellinsfurt
 Handelsregister: HRA 380002 (AG Stuttgart)  
 USt.-Id.-Nr.: DE 146884574
 
-### Persönlich haftende Gesellschafter
+### Persönlich haftende Gesellschafterin
 
 SK Verwaltungs-GmbH  
 Bahnhofstraße 26  
 72138 Kirchentellinsfurt  
 HRB 381307 (AG Stuttgart)  
-Geschäftsführer: Steffen Krämer
+Geschäftsführer: Steffen Krämer und Dr. Marius-Florentin Krämer
 
 ### Haftungshinweis 
 
