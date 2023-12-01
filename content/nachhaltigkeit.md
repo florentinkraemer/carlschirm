@@ -21,10 +21,10 @@ title = "Nachhaltigkeit"
 					<img src="/images/nachhaltigkeit/DJI_0118.webp">
 				</figure>					
 				<figure class="image is-16by9">
-					<img src="/images/nachhaltigkeit/DJI_0123.JPG">
+					<img src="/images/nachhaltigkeit/DJI_0123.webp">
 				</figure>	
 				<figure class="image is-16by9">
-					<img src="/images/nachhaltigkeit/DJI_0144.JPG">
+					<img src="/images/nachhaltigkeit/DJI_0144.webp">
 				</figure>						
 		</div>
 	</div>
