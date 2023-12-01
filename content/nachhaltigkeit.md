@@ -18,7 +18,7 @@ title = "Nachhaltigkeit"
 		</div>
 		<div class="column">
 				<figure class="image is-16by9">
-					<img src="/images/nachhaltigkeit/DJI_0118.JPG">
+					<img src="/images/nachhaltigkeit/DJI_0118.webp">
 				</figure>					
 				<figure class="image is-16by9">
 					<img src="/images/nachhaltigkeit/DJI_0123.JPG">
