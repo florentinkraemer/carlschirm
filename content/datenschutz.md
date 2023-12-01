@@ -7,7 +7,7 @@ title = "Datenschutz"
 
 ### Datenschutzerklärung
 
-Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen, weshalb wir die datenschutzrechtlichen Bestimmungen insbesondere der  Datenschutzgrundverordnung (DSGVO) und der Bundes- und Landesdatenschutzgesetze streng beachten. Der Verantwortliche im Sinne des Datenschutzrechts ist: 
+Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen, weshalb wir die datenschutzrechtlichen Bestimmungen insbesondere der Datenschutzgrundverordnung (DSGVO) und der Bundes- und Landesdatenschutzgesetze streng beachten. Der Verantwortliche im Sinne des Datenschutzrechts ist: 
 
 Herr Steffen Krämer  
 Carl Schirm GmbH & Co. Krüger KG  

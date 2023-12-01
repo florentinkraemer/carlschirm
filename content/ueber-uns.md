@@ -3,7 +3,8 @@ type = "static"
 title = "Über uns"
 +++
 
-<div class="columns">
+<div class="container">
+	<div class="columns">
 	<div class="column is-half">
 		<h2>Wir über uns</h2>
 		<p>Als im Jahr 1987 die seit 1900 arbeitende Textilproduktion eingestellt wurde, standen wir vor der Entscheidung, was mit dem Fabrikgebäude geschehen soll.</p>
@@ -25,6 +26,7 @@ title = "Über uns"
 		<figure class="image is-16by9">
 			<img src="/images/ueber-uns/5.jpg">
 		</figure>						
+	</div>	
 	</div>
 </div>
 
