@@ -3,7 +3,7 @@ title = "Produktionsräumlichkeiten / Werkstatt"
 date = "2024-12-04"
 floorplan = "/images/vermietung/cs_mb_s_EG_11_12.jpg"
 floorplanDownload = "/images/vermietung/cs_mb_s_EG_11_12.pdf"
-draft = false
+draft = true
 +++
 
 - Ebenerdiger Raum
