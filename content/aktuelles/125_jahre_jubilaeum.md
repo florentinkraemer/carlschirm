@@ -6,7 +6,7 @@ draft = false
 
 Wir feiern das 125-jährige Jubiläum der Firma Carl Schirm — 87 Jahre als Textilbetrieb, 38 Jahre als Gewerbepark. Dazu laden wir Sie herzlich ein!
 
-![Signet](/images/aktuelles/signet_jubilaeum_v2_klein.png)
+![Banner](/images/aktuelles/250529_Schirm-Banner_385x150_13.webp)
 
 Kommen Sie uns am *28. Juni 2025* auf dem Areal des Gewerbeparks (Bahnhofstraße 26, Kirchentellinsfurt) besuchen. Von 10 Uhr bis 15 Uhr erwartet Sie ein abwechslungsreiches Programm:
 
