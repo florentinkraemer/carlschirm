@@ -6,9 +6,9 @@ draft = false
 
 Wir feiern das 125-jährige Jubiläum der Firma Carl Schirm — 87 Jahre als Textilbetrieb, 38 Jahre als Gewerbepark. Dazu laden wir Sie herzlich ein!
 
-![Banner](/images/aktuelles/250529_Schirm-Banner_385x150_13.webp)
+![Banner](/images/aktuelles/flyer_jubilaeum.webp)
 
-Kommen Sie uns am *28. Juni 2025* auf dem Areal des Gewerbeparks (Bahnhofstraße 26, Kirchentellinsfurt) besuchen. Von 10 Uhr bis 15 Uhr erwartet Sie ein abwechslungsreiches Programm:
+Kommen Sie uns am 28. Juni 2025 auf dem Areal des Gewerbeparks (Bahnhofstraße 26, Kirchentellinsfurt) besuchen. Von 10 Uhr bis 15 Uhr erwartet Sie ein abwechslungsreiches Programm:
 
 - Führung durch das Gustav-Mesmer-Archiv
 - Rundgang Faber Uniformen GmbH
@@ -25,4 +25,4 @@ Und natürlich ist auch für Ihr leibliches Wohl gesorgt. Die Fischerkameradscha
 
 Wir freuen uns auf Ihr Kommen!
 
-Und wenn Sie den Tag im wahrsten Sinne des Wortes ausklingen lassen wollen: Abends ab 20 Uhr spielt [*Black Cat Bone*](https://www.black-cat-bone.com) im Innenhof ein [Open-Air-Konzert](https://www.carl-schirm.de/aktuelles/openair2025/). 
+Und wenn Sie den Tag im wahrsten Sinne des Wortes ausklingen lassen wollen: Abends ab 20 Uhr spielt [Black Cat Bone](https://www.black-cat-bone.com) im Innenhof ein [Open-Air-Konzert](https://www.carl-schirm.de/aktuelles/openair2025/). 

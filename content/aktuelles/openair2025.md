@@ -4,7 +4,7 @@ date = "2025-05-20"
 draft = false
 +++
 
-Dieses Jahr ist es wieder soweit! [Kultur im Schloss](https://www.kulturimschloss.de) lässt die Tradition der Schirm Open Airs wieder aufleben und bringt mit **Black Cat Bone** echten, ehrlichen Bluesrock auf die Bühne. Karten gibt es [hier](https://www.kulturimschloss.de/veranstaltungen?tx_sfeventmgt_pieventdetail%5Baction%5D=detail&tx_sfeventmgt_pieventdetail%5Bcontroller%5D=Event&tx_sfeventmgt_pieventdetail%5Bevent%5D=5&cHash=21b122dec71b4dbc4486f468df1cd5fa) (günstiger im Vorverkauf).
+Dieses Jahr ist es wieder soweit! [Kultur im Schloss](https://www.kulturimschloss.de) lässt die Tradition der Schirm Open Airs wieder aufleben und bringt mit Black Cat Bone echten, ehrlichen Bluesrock auf die Bühne. Karten gibt es [hier](https://www.kulturimschloss.de/veranstaltungen?tx_sfeventmgt_pieventdetail%5Baction%5D=detail&tx_sfeventmgt_pieventdetail%5Bcontroller%5D=Event&tx_sfeventmgt_pieventdetail%5Bevent%5D=5&cHash=21b122dec71b4dbc4486f468df1cd5fa) (günstiger im Vorverkauf).
 
 <!-- ![Flyer](.jpg) -->
 
