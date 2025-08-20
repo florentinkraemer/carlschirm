@@ -1,7 +1,7 @@
 <!-- uncomment to obtain green navbar -->
 <!-- <nav class="navbar" role="navigation" aria-label="main navigation"> -->
 <!-- uncomment to obtain previous navbar -->
-<nav class="navbar is-light" role="navigation" aria-label="main navigation">  
+<nav class="navbar is-light" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="/">
       <img  src="{{ print "images/" .Site.Params.logo.url | relURL }}"
@@ -50,15 +50,40 @@
           </a>
           <a class="navbar-item" href="/nachhaltigkeit/">
             Nachhaltigkeit
-          </a>          
-          <a class="navbar-item" href="/historie/">
-            Historie
           </a>
           <hr class="navbar-divider">
           <a class="navbar-item" href="/anfahrt/">
             Anfahrt
           </a>
         </div>
+      </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="/historie/">
+              Historie
+          </a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="/historie/buerogebaeude/">
+              Bürogebäude
+            </a>
+            <a class="navbar-item" href="/historie/wohnhaus/">
+              Wohnhaus
+            </a>
+            <a class="navbar-item" href="/historie/shedbau/">
+                Shedbau
+            </a>
+            <a class="navbar-item" href="/historie/kesselhaus/">
+                Kesselhaus
+            </a>
+            <a class="navbar-item" href="/historie/schlosserei/">
+                Schlosserei
+            </a>
+            <a class="navbar-item" href="/historie/hochbau/">
+                Hochbau
+            </a>
+            <a class="navbar-item" href="/historie/spinnerei_shedbau/">
+                Spinnerei-Shedbau
+            </a>
+          </div>
       </div>
     </div>
   </div>
