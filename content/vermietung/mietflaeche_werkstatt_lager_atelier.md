@@ -3,7 +3,7 @@ title = "Werkstatt / Lager / Atelier"
 date = "2025-03-04"
 floorplan = "/images/vermietung/cs_mb_s_EG_U_10.jpg"
 floorplanDownload = "/images/vermietung/cs_mb_s_EG_U_10.pdf"
-draft = false
+draft = true
 +++
 
 - Ebenerdig erreichbar
