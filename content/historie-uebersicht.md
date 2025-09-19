@@ -5,7 +5,7 @@ title = "Historie"
 
 <div class="container">
     <h2>Historie</h2>
-    <p>Die Firma wurde im Jahr 1900 durch Herrn Carl Schirm gegründet und unter dem Namen <i>Carl Schirm & Co.</i> im Handelsregister Tübingen als Unternehmen mit Nr. 2 eingetragen. Gegründet als Textilbetrieb (Weberei, Rauherei und ab 1923 zusätzlich Spinnerei), erlebten die Gebäude nach der Aufgabe der Produktion im Jahr 1987 eine Wiederbelebung als Gewerbepark <i>Carl Schirm</i>. Begonnen wurde 1900 mit der Herstellung von Betttüchern auf mechanischen Webstühlen, die zum Teil in der anschließenden Rauherei weiterbearbeitet und in der Näherei konfektioniert wurden.</p>
+    <p>Die Firma wurde im Jahr 1900 durch Herrn Carl Schirm gegründet und unter dem Namen <i>Carl Schirm & Co.</i> im Handelsregister Tübingen als Unternehmen mit Nr. 2 eingetragen. Gegründet als Textilbetrieb (Weberei, Rauerei und ab 1923 zusätzlich Spinnerei), erlebten die Gebäude nach der Aufgabe der Produktion im Jahr 1987 eine Wiederbelebung als Gewerbepark <i>Carl Schirm</i>. Begonnen wurde 1900 mit der Herstellung von Betttüchern auf mechanischen Webstühlen, die zum Teil in der anschließenden Rauerei weiterbearbeitet und in der Näherei konfektioniert wurden.</p>
 <div class="columns">
     <div class="column is-half">
         <div class="image is-4by3">
@@ -22,7 +22,7 @@ title = "Historie"
     		</div>
     </div>
 </div>
-<p>1923 erweiterte man die die Produktionspalette um eine Zweizylinder-Spinnerei, welche die Versorgung der Weberei mit Schussgarnen ermöglichte. Die Vergrößerung der Spinnerei sicherte ab 1925 nicht nur den Eigenbedarf, das Garn wurde auch an die umliegenden Webereien geliefert. Die Herstellung von baumwollenen Schlafdecken, gerauhten Unterrockstoffen und Betttüchern zielte überwiegend auf saisonalen Absatz in den Herbst- und Wintermonaten. Um die Produktion zu verstetigen, erwarb man 1931 die Firma <i>Mechanische Weberei Krüger & Co.</i> aus Ulm, deren Produktion auf Möbelstoffe und Dekorationsstoffe ausgerichtet war. Die Weiterentwicklung aller Produktsparten gelang äußerst erfolgreich, so dass nach dem kriegsbedingten Produktionseinbruch der erstarkende Nachkriegsmarkt die Firma bis in die die 1960-er Jahre stetig wachsen ließ.</p>
+<p>1923 erweiterte man die die Produktionspalette um eine Zweizylinder-Spinnerei, welche die Versorgung der Weberei mit Schussgarnen ermöglichte. Die Vergrößerung der Spinnerei sicherte ab 1925 nicht nur den Eigenbedarf, das Garn wurde auch an die umliegenden Webereien geliefert. Die Herstellung von baumwollenen Schlafdecken, gerauten Unterrockstoffen und Betttüchern zielte überwiegend auf saisonalen Absatz in den Herbst- und Wintermonaten. Um die Produktion zu verstetigen, erwarb man 1932 die Firma <i>Mechanische Weberei Krüger & Co.</i> aus Ulm, deren Produktion auf Möbelstoffe und Dekorationsstoffe ausgerichtet war. Die Weiterentwicklung aller Produktsparten gelang äußerst erfolgreich, so dass nach dem kriegsbedingten Produktionseinbruch der erstarkende Nachkriegsmarkt die Firma bis in die die 1960-er Jahre stetig wachsen ließ.</p>
 <div class="columns">
     <div class="column is-half">
         <div class="image is-4by3">
