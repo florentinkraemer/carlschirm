@@ -1,6 +1,6 @@
 +++
 title = "Atelier für Formgebung"
-imagepath = "images/mieter/atelier_fuer_formgebung.png"
+imagepath = "images/mieter/atelier_fuer_formgebung.svg"
 phone = ["+49 (0)7121 1384050"]
 link = "https://www.atelier-formgebung.de/formgebung/"
 email = "kontakt@atelier-formgebung.de"
