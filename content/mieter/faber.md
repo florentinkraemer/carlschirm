@@ -1,6 +1,6 @@
 +++
 title = "Faber Uniformen"
-imagepath = ""
+imagepath = "images/mieter/faber.png"
 phone = ["+49 (0)7121 381820"]
 link = "https://faber-uniformen.de"
 email = "post@faber-uniformen.de"
