@@ -22,4 +22,33 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // Toggle dropdowns on click/tap for touch devices
+  const $dropdownLinks = document.querySelectorAll('.navbar-item.has-dropdown > .navbar-link');
+
+  $dropdownLinks.forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      const dropdown = link.parentElement;
+
+      // Close other open dropdowns
+      $dropdownLinks.forEach(otherLink => {
+        const otherDropdown = otherLink.parentElement;
+        if (otherDropdown !== dropdown) {
+          otherDropdown.classList.remove('is-active');
+        }
+      });
+
+      // Toggle the clicked dropdown
+      dropdown.classList.toggle('is-active');
+    });
+  });
+
+  // Close dropdowns when clicking outside
+  document.addEventListener('click', () => {
+    $dropdownLinks.forEach(link => {
+      link.parentElement.classList.remove('is-active');
+    });
+  });
+
 });
