@@ -1,9 +1,9 @@
 // Modals
 
   var rootEl = document.documentElement;
-  var $modals = getAll('.modal');
-  var $modalButtons = getAll('.modal-button');
-  var $modalCloses = getAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button');
+  var $modals = Array.from(document.querySelectorAll('.modal'));
+  var $modalButtons = Array.from(document.querySelectorAll('.modal-button'));
+  var $modalCloses = Array.from(document.querySelectorAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button'));
 
   if ($modalButtons.length > 0) {
     $modalButtons.forEach(function ($el) {
@@ -39,6 +39,5 @@
     var e = event || window.event;
     if (e.keyCode === 27) {
       closeModals();
-      closeDropdowns();
     }
   });

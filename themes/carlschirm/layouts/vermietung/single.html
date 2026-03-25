@@ -17,7 +17,7 @@
   		    <div class="column is-one-quarter">
   			   <h4>Grundriss</h4>
   			   <figure class="image is-96x96">
-  				    <a href="{{ .Params.floorplanDownload }}"><img src="{{ .Params.floorplan }}"></a>
+  				    <a href="{{ .Params.floorplanDownload }}"><img src="{{ .Params.floorplan }}" alt="Grundriss {{ .Title }}" loading="lazy"></a>
   			   </figure>
   		    </div>
           {{ end }}
@@ -25,13 +25,13 @@
           <div class="column is-one-quarter">
             <h4>Impressionen</h4>
             <figure class="image is-96x96">
-              <a href="{{ .Params.image1 }}"><img src="{{ .Params.image1 }}"></a>
+              <a href="{{ .Params.image1 }}"><img src="{{ .Params.image1 }}" alt="Impression 1 {{ .Title }}" loading="lazy"></a>
             </figure>
             <figure class="image is-96x96">
-              <a href="{{ .Params.image2 }}"><img src="{{ .Params.image2 }}"></a>
+              <a href="{{ .Params.image2 }}"><img src="{{ .Params.image2 }}" alt="Impression 2 {{ .Title }}" loading="lazy"></a>
             </figure>
             <figure class="image is-96x96">
-              <a href="{{ .Params.image3 }}"><img src="{{ .Params.image3 }}"></a>
+              <a href="{{ .Params.image3 }}"><img src="{{ .Params.image3 }}" alt="Impression 3 {{ .Title }}" loading="lazy"></a>
             </figure>
           </div>
           {{ end }}
