@@ -8,7 +8,7 @@ Getreu der namensgebenden Gründerfamilie hatten wir zwar eine ganze Menge groß
 
 ![Schirme](/images/aktuelles/schirme.webp)
 
-Um 10 Uhr wurden die Türen geöffnet und die ersten Neugierigen schauten sich auf dem Gelände der ehemaligen Textilfabrik um. Besonderen Zulauf konnte der Kinderparcours verbuchen. Von Sackhüpfen über Wurfgeschwindigkeitsmessung zu Dosenklopfen und Mossgummidruck gab es eine Menge zu entdecken. Corvus stellte dafür dankenswerterweise tolle Spielgeräte zur Verfügung. Ein besonderes Highlight war auch die Stofftaschengestaltung bei Faber Uniformen. Kleine Stickereien, Aufnäher und Strasssteine sorgten für individuell gestaltete Taschen, die die schöne Atmosphäre sicher lange konservieren werden.
+Um 10 Uhr wurden die Türen geöffnet und die ersten Neugierigen schauten sich auf dem Gelände der ehemaligen Textilfabrik um. Besonderen Zulauf konnte der Kinderparcours verbuchen. Von Sackhüpfen über Wurfgeschwindigkeitsmessung zu Dosenklopfen und Moosgummidruck gab es eine Menge zu entdecken. Corvus stellte dafür dankenswerterweise tolle Spielgeräte zur Verfügung. Ein besonderes Highlight war auch die Stofftaschengestaltung bei Faber Uniformen. Kleine Stickereien, Aufnäher und Strasssteine sorgten für individuell gestaltete Taschen, die die schöne Atmosphäre sicher lange konservieren werden.
 
 ![Dosenklopfen](/images/aktuelles/dosenklopfen.webp)
 ![Moosgummi](/images/aktuelles/moosgummi.webp)

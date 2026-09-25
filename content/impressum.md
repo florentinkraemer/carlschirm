@@ -15,7 +15,7 @@ Bahnhofstraße 26
 
 Telefon: +49 (0)7121 60241  
 Fax: +49 (0)7121 60244  
-E-Mail: [info@carl-schirm.de](info@carl-schirm.de)  
+E-Mail: [info@carl-schirm.de](mailto:info@carl-schirm.de)  
 Internet: [https://www.carl-schirm.de](https://www.carl-schirm.de)
 
 ### Sitz und Register
