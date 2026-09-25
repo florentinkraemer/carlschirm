@@ -1,6 +1,6 @@
 +++
 title = "KUNE ARTS"
-imagepath = "images/mieter/kune.pdf"
+imagepath = "images/mieter/kune.png"
 link = "https://kunearts.com"
 email = "info@kunearts.com"
 emaillink = "mailto:info@kunearts.com"

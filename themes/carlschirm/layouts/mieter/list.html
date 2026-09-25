@@ -6,7 +6,7 @@
       {{ .Content }}
     </div>
     <div class="columns is-multiline">
-      {{ range .Pages }}
+      {{ range $p := .Pages }}
         <div class="column is-one-quarter">
           <div class="card">
             <div class="card-header">
@@ -23,33 +23,31 @@
             <div class="card-footer">
               <div class="card-content">
                 <div class="columns is-multiline">
+                  {{ with .Params.emaillink }}
                   <div class="column is-half has-text-centered">
-                    <button class="button is-fullwidth is-rounded is-light">
-                      <span class="icon">
-                        <a href="{{ .Params.emaillink }}"><i class="fas fa-at"></i></a>
-                      </span>
-                    </button>
+                    <a class="button is-fullwidth is-rounded is-light" href="{{ . }}" aria-label="E-Mail an {{ $p.Title }}">
+                      {{ partial "icon.html" "at" }}
+                    </a>
                   </div>
+                  {{ end }}
+                  {{ with .Params.link }}
                   <div class="column is-half has-text-centered">
-                    <button class="button is-fullwidth is-rounded is-light">
-                      <span class="icon">
-                        <a href="{{ .Params.link | relURL }}"><i class="fas fa-home"></i></a>
-                      </span>
-                    </button>
+                    <a class="button is-fullwidth is-rounded is-light" href="{{ . }}" aria-label="Website von {{ $p.Title }}">
+                      {{ partial "icon.html" "home" }}
+                    </a>
                   </div>
+                  {{ end }}
                   {{ range .Params.phone }}
                   <div class="column has-text-centered is-full">
-                      <span class="icon">
-                        <a href="tel:{{ . }}"><i class="fas fa-phone"></i></a>
-                      </span>
+                    <a href="tel:{{ . | replaceRE `\(0\)` "" | replaceRE `[^+0-9]` "" }}">
+                      {{ partial "icon.html" "phone" }}
                       {{ . }}
+                    </a>
                   </div>
                   {{ end }}
                   {{ if .Params.telefax }}
                   <div class="column has-text-centered is-full">
-                      <span class="icon">
-                        <i class="fas fa-fax"></i>
-                      </span>
+                      {{ partial "icon.html" "fax" }}
                       {{ .Params.telefax }}
                   </div>
                   {{ end }}

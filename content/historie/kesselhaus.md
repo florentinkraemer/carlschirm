@@ -3,7 +3,7 @@ type = "static"
 title = "Historie Kessel- und Maschinenhaus"
 +++
 
-Das über 360 Quadratmeter große Kessel- und Maschinenhaus wurde wie der Shedbau nebenan bereits 1900, im Gründungsjahr, erbaut. Die Gebäude wurden von Max Zimmermann entworfen.
+Das über 360 Quadratmeter große Kessel- und Maschinenhaus wurde wie der Shedbau nebenan bereits 1900, im Gründungsjahr, erbaut. Die Gebäude wurden von Markus Zimmermann entworfen.
 
 Die Befeuerung der zwei Langzugöfen erfolgte mit Kohlen. Wer genau hinsieht, entdeckt auch heute noch auf dem Kopfsteinpflaster den ehemaligen Schienenverlauf für die Lore, die für den Kohlentransport zwischen dem Lagerschuppen und dem Kesselhaus eingesetzt wurde. Die Anlieferung der Kohle erfolgte über ein extra für die Firma angelegtes Gleis.
 

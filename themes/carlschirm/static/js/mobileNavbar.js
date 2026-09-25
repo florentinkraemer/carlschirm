@@ -24,9 +24,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Toggle dropdowns on click/tap for touch devices
   const $dropdownLinks = document.querySelectorAll('.navbar-item.has-dropdown > .navbar-link');
+  const canHover = window.matchMedia('(hover: hover)').matches;
 
   $dropdownLinks.forEach(link => {
     link.addEventListener('click', (e) => {
+      // Devices with a mouse open dropdowns on hover, so let links with a target navigate
+      if (canHover && link.hasAttribute('href')) {
+        return;
+      }
       e.preventDefault();
       e.stopPropagation();
       const dropdown = link.parentElement;

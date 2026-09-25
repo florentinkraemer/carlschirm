@@ -12,14 +12,17 @@
       <div class="box">
         <div class="content">
           <h3>Aktuelle Angebote</h3>
+          {{ with .Pages }}
           <ul>
-            <!-- Ranges through content/posts/*.md -->
-            {{ range .Pages }}
+            {{ range . }}
             <li>
                 <a href="{{ .Permalink }}">{{ .Date.Format "02.01.2006" }} | {{ .Title }}</a>
             </li>
             {{ end }}
           </ul>
+          {{ else }}
+          <p>Derzeit sind keine Flächen frei. Sprechen Sie uns trotzdem gerne an – wir informieren Sie, sobald passende Räume verfügbar werden: <a href="mailto:info@carl-schirm.de">info@carl-schirm.de</a></p>
+          {{ end }}
         </div>
       </div>  
     </div>
