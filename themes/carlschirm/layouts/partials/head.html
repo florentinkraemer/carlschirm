@@ -33,7 +33,3 @@
 {{ range .Site.Params.customJS }}
 <script src="{{ . | relURL }}"></script>
 {{ end }}
-
-{{ with .Site.Params.iconset }}
-<script defer src="{{ . | absURL }}"></script>
-{{ end }}

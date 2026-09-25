@@ -1,0 +1,4 @@
+{{- /* Inline SVG icon from assets/icons (Font Awesome Free, CC BY 4.0) */ -}}
+{{- with resources.Get (printf "icons/%s.svg" .) -}}
+<span class="icon" aria-hidden="true">{{ .Content | replaceRE `^<svg ` `<svg focusable="false" ` | safeHTML }}</span>
+{{- end -}}

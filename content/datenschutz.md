@@ -70,16 +70,20 @@ Durch die datenschutzrechtlichen Vorschriften haben Sie eine Vielzahl an Rechten
 
 In die Verarbeitung Ihrer Daten können Sie einwilligen. Diese Einwilligung erfolgt freiwillig. Im Fall einer Einwilligung können wir Ihre personenbezogenen Daten auch nach Wegfall des Verarbeitungszwecks verarbeiten. Sollten Sie eine Einwilligung in die Verarbeitung Ihrer Daten erteilt haben, ist diese Einwilligung jederzeit und formfrei widerruflich. Diesen Widerruf können Sie uns gegenüber erklären (Carl Schirm GmbH & Co. Krüger KG, Bahnhofstraße 26, 72138 Kirchentellinsfurt, [info@carl-schirm.de](mailto:info@carl-schirm.de)).
  
-#### Verwendung von Cookies
+#### Cookies
 
-Um den Besuch unserer Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu ermöglichen, verwenden wir sogenannte Cookies. Hierbei handelt es sich um kleine Textdateien, die auf Ihrem Endgerät abgelegt werden. Einige der von uns verwendeten Cookies werden nach dem Ende der Browser-Sitzung, also nach Schließen Ihres Browsers, wieder gelöscht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Endgerät und ermöglichen es, Ihren Browser beim nächsten Besuch wiederzuerkennen (persistente Cookies). Persistente Cookies werden von uns nicht verwendet. Auch auf verlinkten Internetseiten außerhalb unseres Verantwortungsbereichs können Cookies zum Einsatz kommen, ohne dass Sie von uns gesondert hierauf hingewiesen werden. Eine Verknüpfung mit personenbezogenen Daten findet nicht statt, sodass keine Rückschlüsse auf die Aktivität einzelner Benutzer gezogen werden können.
+Diese Webseite verwendet keine Cookies und keine vergleichbaren Technologien, die Informationen auf Ihrem Endgerät speichern oder auslesen. Es findet keine Analyse Ihres Nutzungsverhaltens statt (kein Tracking).
 
-Die Verwendung von Cookies ist freiwillig. Alle gängigen Browser verfügen über die Möglichkeit, sie so einzustellen, dass Sie über das Setzen von Cookies informiert werden und einzeln über deren Annahme entscheiden oder die Annahme von Cookies für bestimmte Fälle oder generell ausschließen. Wie dies funktioniert, erfahren Sie u.a. über den folgenden externen Link: http://www.allaboutcookies.org. Bei der Nichtannahme von Cookies kann die Funktionalität unserer Webseite eingeschränkt sein.
+#### Hosting
 
-#### Weitere Programme auf der Homepage
+Diese Webseite wird bei Netlify, Inc. (San Francisco, USA) gehostet. Beim Aufruf der Webseite verarbeitet Netlify die oben unter „Datenerhebung“ genannten Log-Daten, insbesondere Ihre IP-Adresse, um die Seiten auszuliefern und den sicheren Betrieb zu gewährleisten. Rechtsgrundlage ist unser berechtigtes Interesse an einer zuverlässigen Bereitstellung der Webseite (Art. 6 Abs. 1 lit. f DSGVO). Netlify ist nach dem EU-US Data Privacy Framework zertifiziert; zudem haben wir mit Netlify einen Vertrag zur Auftragsverarbeitung geschlossen. Weitere Informationen finden Sie in der Datenschutzerklärung von Netlify: [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/)
 
-Auf diesen Internetseiten wird der Kartendienst Google Maps verwendet. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP-Adresse zu speichern, und diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://www.google.de/intl/de/policies/privacy/
- 
+Schriftarten, Symbole und Skripte werden ausschließlich von unserem eigenen Webspace geladen. Es werden keine Inhalte von Google (z. B. Google Fonts oder Google Maps) eingebunden.
+
+#### Kartendienst OpenStreetMap
+
+Auf der Seite „Anfahrt“ binden wir eine Karte von OpenStreetMap ein. Anbieter der Kartenkacheln ist die OpenStreetMap Foundation, St John’s Innovation Centre, Cowley Road, Cambridge, CB4 0WS, Vereinigtes Königreich. Beim Aufruf dieser Seite lädt Ihr Browser die Kartenkacheln direkt von den Servern der OpenStreetMap Foundation; dabei wird Ihre IP-Adresse an diese übermittelt. Es werden keine Cookies gesetzt. Für das Vereinigte Königreich besteht ein Angemessenheitsbeschluss der EU-Kommission. Rechtsgrundlage ist unser berechtigtes Interesse an einer anschaulichen Darstellung unseres Standorts (Art. 6 Abs. 1 lit. f DSGVO). Weitere Informationen finden Sie in der Datenschutzerklärung der OpenStreetMap Foundation: [https://osmfoundation.org/wiki/Privacy_Policy](https://osmfoundation.org/wiki/Privacy_Policy)
+
 #### Links
 
 Auf unserer Webseite finden Sie Links zu externen Webseiten. Da diese unserem Einflussbereich entzogen sind, können wir nicht für die Einhaltung der datenschutzrechtlichen Bestimmungen garantieren.
@@ -95,4 +99,4 @@ Bahnhofstraße 26
 72138 Kirchentellinsfurt  
 [info@carl-schirm.de](mailto:info@carl-schirm.de)
  
-Stand: Juni 2018
+Stand: September 2026

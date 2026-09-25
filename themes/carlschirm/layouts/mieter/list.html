@@ -26,30 +26,28 @@
                   {{ with .Params.emaillink }}
                   <div class="column is-half has-text-centered">
                     <a class="button is-fullwidth is-rounded is-light" href="{{ . }}" aria-label="E-Mail an {{ $p.Title }}">
-                      <span class="icon"><i class="fas fa-at"></i></span>
+                      {{ partial "icon.html" "at" }}
                     </a>
                   </div>
                   {{ end }}
                   {{ with .Params.link }}
                   <div class="column is-half has-text-centered">
                     <a class="button is-fullwidth is-rounded is-light" href="{{ . }}" aria-label="Website von {{ $p.Title }}">
-                      <span class="icon"><i class="fas fa-home"></i></span>
+                      {{ partial "icon.html" "home" }}
                     </a>
                   </div>
                   {{ end }}
                   {{ range .Params.phone }}
                   <div class="column has-text-centered is-full">
                     <a href="tel:{{ . | replaceRE `\(0\)` "" | replaceRE `[^+0-9]` "" }}">
-                      <span class="icon"><i class="fas fa-phone"></i></span>
+                      {{ partial "icon.html" "phone" }}
                       {{ . }}
                     </a>
                   </div>
                   {{ end }}
                   {{ if .Params.telefax }}
                   <div class="column has-text-centered is-full">
-                      <span class="icon">
-                        <i class="fas fa-fax"></i>
-                      </span>
+                      {{ partial "icon.html" "fax" }}
                       {{ .Params.telefax }}
                   </div>
                   {{ end }}
