@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return;
   }
 
-  const position = [48.53166, 9.13512];
+  const position = [48.531235, 9.137557];
   const map = L.map(el, { scrollWheelZoom: false }).setView(position, 16);
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {

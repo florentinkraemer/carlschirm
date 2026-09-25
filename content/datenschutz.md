@@ -76,7 +76,7 @@ Diese Webseite verwendet keine Cookies und keine vergleichbaren Technologien, di
 
 #### Hosting
 
-Diese Webseite wird bei Netlify, Inc. (San Francisco, USA) gehostet. Beim Aufruf der Webseite verarbeitet Netlify die oben unter „Datenerhebung“ genannten Log-Daten, insbesondere Ihre IP-Adresse, um die Seiten auszuliefern und den sicheren Betrieb zu gewährleisten. Rechtsgrundlage ist unser berechtigtes Interesse an einer zuverlässigen Bereitstellung der Webseite (Art. 6 Abs. 1 lit. f DSGVO). Netlify ist nach dem EU-US Data Privacy Framework zertifiziert; zudem haben wir mit Netlify einen Vertrag zur Auftragsverarbeitung geschlossen. Weitere Informationen finden Sie in der Datenschutzerklärung von Netlify: [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/)
+Diese Webseite wird bei Netlify, Inc. (San Francisco, USA) gehostet. Beim Aufruf der Webseite verarbeitet Netlify die oben unter „Datenerhebung“ genannten Log-Daten, insbesondere Ihre IP-Adresse, um die Seiten auszuliefern und den sicheren Betrieb zu gewährleisten. Rechtsgrundlage ist unser berechtigtes Interesse an einer zuverlässigen Bereitstellung der Webseite (Art. 6 Abs. 1 lit. f DSGVO). Netlify ist nach dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen finden Sie in der Datenschutzerklärung von Netlify: [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/)
 
 Schriftarten, Symbole und Skripte werden ausschließlich von unserem eigenen Webspace geladen. Es werden keine Inhalte von Google (z. B. Google Fonts oder Google Maps) eingebunden.
 
